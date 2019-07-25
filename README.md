@@ -1,5 +1,6 @@
 # TKInter/ttk デスクトップ MP3Player
 
 Python 3.6.5
+TkInterでデスクトップアプリを作ってみる。要 pygame, mutagen。
 
-TkInterでデスクトップアプリを作ってみる
+> pip install pygame mutagen
