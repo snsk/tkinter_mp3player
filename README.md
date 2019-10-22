@@ -3,5 +3,5 @@
 Python 3.6.5
 TkInterでデスクトップアプリを作ってみる。要 pygame
 
-> pip install pygame mutagen
+> pip install pygame
 
